@@ -1,4 +1,4 @@
-HEADER = ("Clacks", "GNU Terry Pratchett")
+HEADER = ("X-Clacks-Overhead", "GNU Terry Pratchett")
 
 
 class GNUTerryPratchett(object):
